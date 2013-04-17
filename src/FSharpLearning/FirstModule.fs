@@ -1,3 +1,4 @@
 ﻿module FirstModule
 
-let hello = printfn "Hello World"
+let hello = System.Console.WriteLine "Hello World"
+        
